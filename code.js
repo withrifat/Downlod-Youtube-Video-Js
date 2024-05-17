@@ -28,3 +28,5 @@
     document.body.appendChild(elem);
     elem.click();
     document.body.removeChild(elem);
+
+    // Those code are coppy and pest on your console.... and after that you got the video titale and link on pc
